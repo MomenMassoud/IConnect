@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1044659732765",
+    "firebase_url": "https://iconnect-f198c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "iconnect-f198c",
+    "storage_bucket": "iconnect-f198c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044659732765:android:694e9ad1467bfa963ce1f4",
+        "android_client_info": {
+          "package_name": "com.aastccit.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044659732765-737rd6s616h988q4mnsedd9jjeph5n71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aastccit.chatapp",
+            "certificate_hash": "c1411099f0b5adb8250b5f12282b4d832fdec105"
+          }
+        },
+        {
+          "client_id": "1044659732765-737rd6s616h988q4mnsedd9jjeph5n71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZCmg1cR1t353Ti9QXfN7MsTZUTK0baKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044659732765-737rd6s616h988q4mnsedd9jjeph5n71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
